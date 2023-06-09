@@ -1,16 +1,21 @@
-### Hi there 👋
+## 👋 About Me:
 
-<!--
-**SahilSingh021/SahilSingh021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Sahil, an upcoming software developer with a passion for creating innovative solutions. I enjoy leveraging these languages to build robust software applications.
 
-Here are some ideas to get you started:
+#### 👨‍💻 **Skills:**
+- Skilled in C#, C++, and Python
+- Proficient with HTML, CSS, and JavaScript
+- Experienced in working with databases and SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ⚡ **Interests:**
+I am enthusiastic about exploring various tech domains, including web development, machine learning, and software engineering. I am constantly learning and staying up to date with the latest industry trends and technologies.
+
+#### 💼 **Open to Opportunities:**
+I am actively seeking opportunities to apply my skills and knowledge in a professional setting. If you are looking for a dedicated and motivated software developer, feel free to reach out to me.
+
+#### 🌐 **Connect with Me:**
+
+[![GitHub](https://img.icons8.com/fluency/48/000000/github.png)](https://github.com/SahilSingh021)[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:sahilsingh.preet21@gmail.com)[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/SahilSingh021/)
+
+
+Let's connect and collaborate to build amazing software solutions together!
