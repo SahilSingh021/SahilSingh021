@@ -2,7 +2,7 @@
 
 Hello, I'm Sahil, an upcoming software developer with a passion for creating innovative solutions. I enjoy leveraging these languages to build robust software applications.
 
-#### 💻 **Skills:**
+#### 👨‍💻 **Skills:**
 - Skilled in C#, C++, and Python
 - Proficient with HTML, CSS, and JavaScript
 - Experienced in working with databases and SQL
