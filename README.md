@@ -20,4 +20,4 @@ I am actively seeking opportunities to apply my skills and knowledge in a profes
 
 Let's connect and collaborate to build amazing software solutions together! 
 
-![](https://komarev.com/ghpvc/?username=SahilSingh021)
+![](https://komarev.com/ghpvc/?username=SahilSingh021&label=PROFILE+VIEWS&color=orange)
