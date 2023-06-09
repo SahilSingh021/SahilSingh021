@@ -18,4 +18,6 @@ I am actively seeking opportunities to apply my skills and knowledge in a profes
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/SahilSingh021/)[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:sahilsingh.preet21@gmail.com)
 
 
-Let's connect and collaborate to build amazing software solutions together!
+Let's connect and collaborate to build amazing software solutions together! 
+
+![](https://komarev.com/ghpvc/?username=SahilSingh021)
