@@ -15,7 +15,7 @@ I am actively seeking opportunities to apply my skills and knowledge in a profes
 
 #### 🌐 **Connect with Me:**
 
-[![GitHub](https://img.icons8.com/fluency/48/000000/github.png)](https://github.com/SahilSingh021)[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:sahilsingh.preet21@gmail.com)[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/SahilSingh021/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/SahilSingh021/)[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:sahilsingh.preet21@gmail.com)
 
 
 Let's connect and collaborate to build amazing software solutions together!
