@@ -1,6 +1,6 @@
 ## 👋 About Me:
 
-Hello, I'm Sahil, an upcoming software developer with a passion for creating innovative solutions. I enjoy leveraging these languages to build robust software applications.
+Hello, I'm Sahil, a software developer with a passion for devoloping specialized solutions. I enjoy leveraging programming languages to build robust software applications.
 
 #### 👨‍💻 **Skills:**
 - Skilled in C#, C++, and Python
@@ -8,7 +8,7 @@ Hello, I'm Sahil, an upcoming software developer with a passion for creating inn
 - Experienced in working with databases and SQL
 
 #### ⚡ **Interests:**
-I am enthusiastic about exploring various tech domains, including web development, machine learning, and software engineering. I am constantly learning and staying up to date with the latest industry trends and technologies.
+I am enthusiastic about exploring various tech domains, including web development, memory modification, and much more. I am constantly learning and staying up to date with the latest industry trends and technologies.
 
 #### 💼 **Open to Opportunities:**
 I am actively seeking opportunities to apply my skills and knowledge in a professional setting. If you are looking for a dedicated and motivated software developer, feel free to reach out to me.
