@@ -15,9 +15,9 @@ My enthusiasm extends across various tech domains, including web development and
 Actively seeking opportunities to apply my skills and knowledge in a professional setting. If you're in need of a dedicated and motivated software developer, feel free to reach out.
 
 ## Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/SahilSingh021/){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/SahilSingh021/)
 - [Gmail](mailto:sahilsingh.preet21@gmail.com)
 
 Let's connect and collaborate to build exceptional software solutions together!
 
-![](https://komarev.com/ghpvc/?username=SahilSingh021&label=PROFILE+VIEWS&color=orange)
+![](https://komarev.com/ghpvc/?username=SahilSingh021&label=PROFILE+VIEWS&color=007BFF)
