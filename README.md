@@ -1,4 +1,4 @@
-# Hello! Welcome to my GitHub profile.
+# Welcome to my GitHub profile.
 
 ## About Me:
 I'm Sahil, a dedicated software developer with a passion for crafting specialized solutions. I thrive on using programming languages to create robust software applications.
@@ -15,7 +15,7 @@ My enthusiasm extends across various tech domains, including web development and
 Actively seeking opportunities to apply my skills and knowledge in a professional setting. If you're in need of a dedicated and motivated software developer, feel free to reach out.
 
 ## Connect with Me:
-- [LinkedIn]([your_linkedin_profile](https://www.linkedin.com/in/SahilSingh021/))
+- [LinkedIn](https://www.linkedin.com/in/SahilSingh021/)
 - [Gmail](mailto:sahilsingh.preet21@gmail.com)
 
 Let's connect and collaborate to build exceptional software solutions together!
