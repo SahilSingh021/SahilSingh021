@@ -4,9 +4,9 @@
 I'm Sahil, a dedicated software developer with a passion for crafting specialized solutions. I thrive on using programming languages to create robust software applications.
 
 ## Skills:
-- Proficient in **C#, C++, and Python**
+- Proficient in **C, C#, C++, and Python**
 - Well-versed in **HTML, CSS, and JavaScript**
-- Experienced in working with **databases and SQL**
+- Experienced in working with **Databases and SQL**
 
 ## Interests:
 My enthusiasm extends across various tech domains, including web development and memory modification. I'm committed to continuous learning, staying updated with the latest industry trends and technologies.
