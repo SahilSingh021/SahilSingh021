@@ -17,7 +17,7 @@ Actively seeking opportunities to apply my skills and knowledge in a professiona
 ## Connect with Me:
 - [My Portfolio](www.sahilsingh.me)
 - [LinkedIn](https://www.linkedin.com/in/SahilSingh021/)
-- [Gmail](mailto:sahilsingh.preet21@gmail.com)
+- [Email](mailto:sahilsingh.preet21@gmail.com)
 
 Let's connect and collaborate to build exceptional software solutions together!
 
