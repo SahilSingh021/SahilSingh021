@@ -15,7 +15,6 @@ My enthusiasm extends across various tech domains, including web development and
 Actively seeking opportunities to apply my skills and knowledge in a professional setting. If you're in need of a dedicated and motivated software developer, feel free to reach out.
 
 ## Connect with Me:
-- [My Portfolio](http://www.sahilsingh.me)
 - [LinkedIn](https://www.linkedin.com/in/SahilSingh021/)
 - [Email](mailto:sahilsingh.preet21@gmail.com)
 
